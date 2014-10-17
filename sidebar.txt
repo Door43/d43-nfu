@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[nfu:home|Door43 (nfu)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-nfu|d43-nfu repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-nfu/archive/master.zip|d43-nfu.zip]]
+
+**Recent Changes**
+{{changes>ns = nfu}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/nfu|Ethnologue data]]
+
